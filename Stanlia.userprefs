@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/plugins/SimpleJSON.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/Stanlia.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/Program.cs" Line="3" Column="15" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/prototype/loader/Loader.cs" Line="23" Column="28" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/instance/helper/ItemCreator.cs" Line="27" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/prototype/store/Store.cs" Line="22" Column="51" />
+      <File FileName="Assets/plugins/SimpleJSON.cs" Line="733" Column="28" />
+      <File FileName="Assets/data/ItemDefs.json" Line="10" Column="17" />
+      <File FileName="Assets/data/NPC.json" Line="11" Column="24" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/prototype/item/Creature.cs" Line="15" Column="31" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/prototype/item/ItemRef.cs" Line="17" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/prototype/item/People.cs" Line="12" Column="20" />
+      <File FileName="Assets/Standard Assets/Scripts/Stanlia/prototype/item/Item.cs" Line="12" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

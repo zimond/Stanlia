@@ -1,0 +1,24 @@
+﻿{
+	"npc#Ruby": {
+		"Name": "@name#Ruby",
+		"Age": 18,
+		"Desc": "A lovely rabbit from Animal Crossing",
+		"HP": 100,
+		"MaxHP": 100,
+		"Def": 20,
+		"Atk": 5,
+		"Tags": "NPC",
+		"BaseType": "People",
+		"Capacity": 5,
+		"Children": [
+			{
+				"DefId": "item#RabbitFur",
+				"Count": 2
+			},
+			{
+				"DefId": "item#RubyGem",
+				"Count": 1
+			}
+		]
+	}
+}

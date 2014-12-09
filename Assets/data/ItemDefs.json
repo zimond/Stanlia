@@ -1,0 +1,18 @@
+﻿{
+	"item#RubyGem": {
+		"Name": "@item#Ruby Gem",
+		"Desc": "A beautiful red gem",
+		"Tags": "Stackable",
+		"BaseType": "Item",
+		"Value": 100,
+		"MaxStack": 99
+	},
+	"item#RabbitFur": {
+		"Name": "@item#Rabbit Fur",
+		"Desc": "Normal fur that could be found on every rabbit",
+		"Tags": "Stackable",
+		"BaseType": "Item",
+		"value": 10,
+		"MaxStack": 99
+	}
+}
