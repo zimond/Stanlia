@@ -37,7 +37,6 @@ public class GConsoleuGUI : MonoBehaviour
 				if (clearOnSubmit) {
 						input.text = string.Empty;
 						input.transform.FindChild ("gc_Input_text").GetComponent<Text> ().text = string.Empty;
-						Debug.Log("Clearing!");
 				}
 				if (reselectOnSubmit) {// TODO focus is now kept on input but need to trigger edit state to
 						eSystem.SetSelectedGameObject (input.gameObject, null);

@@ -27,7 +27,7 @@ namespace Stanlia.prototype.store
 			Store.ItemDefStore = store;
 
 			//load lua
-			Loader.loadLua ("npc/RubyTheRabbit.lua");
+			NPCLuaStore.Add ("npc#Ruby", Loader.loadLua ("npc/RubyTheRabbit.lua"));
 			return true;
 		}
 	}
