@@ -59,11 +59,11 @@ namespace Stanlia.instance.helper
 				}
 			}
 			if (item is People) {
-				Debug.Log ("名字: " + item.Name.Split ('#') [1]);
-				Debug.Log ("介绍：" + item.Desc);
-				Debug.Log ("杀掉Ruby获得:");
+				GConsole.Print ("名字: " + item.Name.Split ('#') [1]);
+				GConsole.Print ("介绍：" + item.Desc);
+				GConsole.Print ("杀掉Ruby获得:");
 				foreach (Item i in item.Children) {
-					Debug.Log (i.StackCount + "个" + i.Name.Split('#')[1]);
+					GConsole.Print (i.StackCount + "个" + i.Name.Split('#')[1]);
 				}
 			}
 			return item;

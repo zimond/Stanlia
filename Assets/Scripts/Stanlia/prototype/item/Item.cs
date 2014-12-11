@@ -12,6 +12,7 @@ namespace Stanlia.prototype.item
 			this.Children = new List<Item> ();
 			this.StackCount = 0;
 			this.Type = "Item";
+			this.AttachedLua = "DefaultItem";//Attach to the default item lua script 
 		}
 		public string Desc { get; set; }
 		public string Name { get; set; }
@@ -19,6 +20,7 @@ namespace Stanlia.prototype.item
 		public uint InstanceId { get; set; }
 		public String Type { get; protected set; }
 		public Tag Tags { get; set; }
+		public string AttachedLua { get; set; }//the id (aka. filename) of lua script related to this item.
 		public List<Item> Children { get; private set; }
 		private uint _capacity = 0;
 		public uint Capacity
