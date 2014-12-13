@@ -5,9 +5,10 @@ public class Program : MonoBehaviour {
 
 	private GameObject console;
 	private bool consoleVisibility = false;
+	private Stanlia.Stanlia stanlia;
 	// Use this for initialization
 	void Start () {
-		new Stanlia.Stanlia ();
+		stanlia = new Stanlia.Stanlia ();
 		console = GameObject.FindGameObjectWithTag ("Console");
 	}
 	
@@ -18,5 +19,8 @@ public class Program : MonoBehaviour {
 			consoleVisibility = !consoleVisibility;
 		}
 		console.SetActive (consoleVisibility);
+
+		//call Stanlia to update
+		stanlia.Update ();
 	}
 }
