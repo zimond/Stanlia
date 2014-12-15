@@ -19,10 +19,6 @@ namespace Stanlia
 			var table = rabbit["RubyTheRabbit"]	as LuaTable;
 			this.talk = table ["Talk"] as LuaFunction;
 			registerCommands ();
-
-			//get the player
-			player = GameObject.Find ("link");
-			playerAnimator = player.GetComponent<Animator> ();
 		}
 		private LuaFunction talk;
 		private Lua rabbit;
@@ -42,17 +38,7 @@ namespace Stanlia
 
 		public void Update()
 		{
-			AnimatorStateInfo stateInfo = playerAnimator.GetCurrentAnimatorStateInfo(0);
-			if (Input.GetAxis("Horizontal") > 0) {
-				if (!stateInfo.IsName("Base.player_run")) {
-					playerAnimator.SetInteger ("player_state", 1);			
-				}
-				else {
-					playerAnimator.SetInteger("player_state", 2);
-				}
-			} else {
-				playerAnimator.SetInteger ("player_state", 0);
-			}
+
 		}
 	}
 }
