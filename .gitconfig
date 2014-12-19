@@ -1,3 +1,6 @@
 [user]
 	name = daiheitan
 	email = daizhuoxian@gmail.com
+[http]
+	sslVerify = false
+	sslCAInfo = /project/goagent/local/CA.crt

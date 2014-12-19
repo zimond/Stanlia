@@ -468,6 +468,10 @@ TextureImporter:
     21300926: link_463
     21300928: link_464
     21300930: link_465
+    21300932: link_466
+    21300934: link_467
+    21300936: link_468
+    21300938: link_469
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -517,7 +521,7 @@ TextureImporter:
         width: 61
         height: 12
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_1
       rect:
@@ -527,7 +531,7 @@ TextureImporter:
         width: 24
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_2
       rect:
@@ -537,7 +541,7 @@ TextureImporter:
         width: 25
         height: 48
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_3
       rect:
@@ -547,7 +551,7 @@ TextureImporter:
         width: 23
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_4
       rect:
@@ -557,7 +561,7 @@ TextureImporter:
         width: 23
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_5
       rect:
@@ -567,7 +571,7 @@ TextureImporter:
         width: 28
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_6
       rect:
@@ -577,7 +581,7 @@ TextureImporter:
         width: 30
         height: 48
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_7
       rect:
@@ -587,7 +591,7 @@ TextureImporter:
         width: 27
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_8
       rect:
@@ -597,7 +601,7 @@ TextureImporter:
         width: 28
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_9
       rect:
@@ -607,7 +611,7 @@ TextureImporter:
         width: 168
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_10
       rect:
@@ -617,7 +621,7 @@ TextureImporter:
         width: 23
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_11
       rect:
@@ -627,7 +631,7 @@ TextureImporter:
         width: 32
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_12
       rect:
@@ -637,7 +641,7 @@ TextureImporter:
         width: 19
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_13
       rect:
@@ -647,7 +651,7 @@ TextureImporter:
         width: 24
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_14
       rect:
@@ -657,7 +661,7 @@ TextureImporter:
         width: 22
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_15
       rect:
@@ -667,7 +671,7 @@ TextureImporter:
         width: 19
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_16
       rect:
@@ -677,7 +681,7 @@ TextureImporter:
         width: 26
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_17
       rect:
@@ -687,7 +691,7 @@ TextureImporter:
         width: 21
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_18
       rect:
@@ -697,7 +701,7 @@ TextureImporter:
         width: 40
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_19
       rect:
@@ -707,7 +711,7 @@ TextureImporter:
         width: 35
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_20
       rect:
@@ -717,7 +721,7 @@ TextureImporter:
         width: 35
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_21
       rect:
@@ -727,7 +731,7 @@ TextureImporter:
         width: 40
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_22
       rect:
@@ -737,7 +741,7 @@ TextureImporter:
         width: 45
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_23
       rect:
@@ -747,7 +751,7 @@ TextureImporter:
         width: 43
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_24
       rect:
@@ -757,7 +761,7 @@ TextureImporter:
         width: 46
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_25
       rect:
@@ -767,7 +771,7 @@ TextureImporter:
         width: 44
         height: 33
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_26
       rect:
@@ -777,7 +781,7 @@ TextureImporter:
         width: 41
         height: 37
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_27
       rect:
@@ -787,7 +791,7 @@ TextureImporter:
         width: 33
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_28
       rect:
@@ -797,7 +801,7 @@ TextureImporter:
         width: 36
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_29
       rect:
@@ -807,7 +811,7 @@ TextureImporter:
         width: 44
         height: 33
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_30
       rect:
@@ -817,7 +821,7 @@ TextureImporter:
         width: 41
         height: 37
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_31
       rect:
@@ -827,7 +831,7 @@ TextureImporter:
         width: 33
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_32
       rect:
@@ -837,7 +841,7 @@ TextureImporter:
         width: 35
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_33
       rect:
@@ -847,7 +851,7 @@ TextureImporter:
         width: 47
         height: 33
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_34
       rect:
@@ -857,7 +861,7 @@ TextureImporter:
         width: 43
         height: 37
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_35
       rect:
@@ -867,7 +871,7 @@ TextureImporter:
         width: 38
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_36
       rect:
@@ -877,7 +881,7 @@ TextureImporter:
         width: 46
         height: 33
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_37
       rect:
@@ -887,7 +891,7 @@ TextureImporter:
         width: 43
         height: 37
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_38
       rect:
@@ -897,7 +901,7 @@ TextureImporter:
         width: 37
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_39
       rect:
@@ -907,7 +911,7 @@ TextureImporter:
         width: 38
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_40
       rect:
@@ -917,7 +921,7 @@ TextureImporter:
         width: 32
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_41
       rect:
@@ -927,7 +931,7 @@ TextureImporter:
         width: 25
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_42
       rect:
@@ -937,7 +941,7 @@ TextureImporter:
         width: 24
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_43
       rect:
@@ -947,7 +951,7 @@ TextureImporter:
         width: 33
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_44
       rect:
@@ -957,7 +961,7 @@ TextureImporter:
         width: 33
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_45
       rect:
@@ -967,7 +971,7 @@ TextureImporter:
         width: 33
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_46
       rect:
@@ -977,7 +981,7 @@ TextureImporter:
         width: 34
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_47
       rect:
@@ -987,7 +991,7 @@ TextureImporter:
         width: 41
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_48
       rect:
@@ -997,7 +1001,7 @@ TextureImporter:
         width: 49
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_49
       rect:
@@ -1007,7 +1011,7 @@ TextureImporter:
         width: 50
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_50
       rect:
@@ -1017,7 +1021,7 @@ TextureImporter:
         width: 48
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_51
       rect:
@@ -1027,7 +1031,7 @@ TextureImporter:
         width: 47
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_52
       rect:
@@ -1037,7 +1041,7 @@ TextureImporter:
         width: 47
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_53
       rect:
@@ -1047,7 +1051,7 @@ TextureImporter:
         width: 47
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_54
       rect:
@@ -1057,7 +1061,7 @@ TextureImporter:
         width: 55
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_55
       rect:
@@ -1067,7 +1071,7 @@ TextureImporter:
         width: 56
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_56
       rect:
@@ -1077,7 +1081,7 @@ TextureImporter:
         width: 47
         height: 41
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_57
       rect:
@@ -1087,7 +1091,7 @@ TextureImporter:
         width: 47
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_58
       rect:
@@ -1097,7 +1101,7 @@ TextureImporter:
         width: 47
         height: 32
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_59
       rect:
@@ -1107,7 +1111,7 @@ TextureImporter:
         width: 46
         height: 32
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_60
       rect:
@@ -1117,7 +1121,7 @@ TextureImporter:
         width: 46
         height: 32
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_61
       rect:
@@ -1127,7 +1131,7 @@ TextureImporter:
         width: 43
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_62
       rect:
@@ -1137,7 +1141,7 @@ TextureImporter:
         width: 30
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_63
       rect:
@@ -1147,7 +1151,7 @@ TextureImporter:
         width: 29
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_64
       rect:
@@ -1157,7 +1161,7 @@ TextureImporter:
         width: 31
         height: 39
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_65
       rect:
@@ -1167,7 +1171,7 @@ TextureImporter:
         width: 45
         height: 28
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_66
       rect:
@@ -1177,7 +1181,7 @@ TextureImporter:
         width: 47
         height: 16
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_67
       rect:
@@ -1187,7 +1191,7 @@ TextureImporter:
         width: 43
         height: 24
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_68
       rect:
@@ -1197,7 +1201,7 @@ TextureImporter:
         width: 42
         height: 27
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_69
       rect:
@@ -1207,7 +1211,7 @@ TextureImporter:
         width: 28
         height: 31
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_70
       rect:
@@ -1217,7 +1221,7 @@ TextureImporter:
         width: 23
         height: 39
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_71
       rect:
@@ -1227,7 +1231,7 @@ TextureImporter:
         width: 88
         height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_72
       rect:
@@ -1237,7 +1241,7 @@ TextureImporter:
         width: 67
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_73
       rect:
@@ -1247,7 +1251,7 @@ TextureImporter:
         width: 38
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_74
       rect:
@@ -1257,7 +1261,7 @@ TextureImporter:
         width: 44
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_75
       rect:
@@ -1267,7 +1271,7 @@ TextureImporter:
         width: 45
         height: 32
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_76
       rect:
@@ -1277,7 +1281,7 @@ TextureImporter:
         width: 71
         height: 16
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_77
       rect:
@@ -1287,7 +1291,7 @@ TextureImporter:
         width: 44
         height: 27
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_78
       rect:
@@ -1297,7 +1301,7 @@ TextureImporter:
         width: 44
         height: 29
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_79
       rect:
@@ -1307,7 +1311,7 @@ TextureImporter:
         width: 38
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_80
       rect:
@@ -1317,7 +1321,7 @@ TextureImporter:
         width: 35
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_81
       rect:
@@ -1327,7 +1331,7 @@ TextureImporter:
         width: 32
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_82
       rect:
@@ -1337,7 +1341,7 @@ TextureImporter:
         width: 52
         height: 39
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_83
       rect:
@@ -1347,7 +1351,7 @@ TextureImporter:
         width: 59
         height: 32
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_84
       rect:
@@ -1357,7 +1361,7 @@ TextureImporter:
         width: 70
         height: 17
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_85
       rect:
@@ -1367,7 +1371,7 @@ TextureImporter:
         width: 44
         height: 25
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_86
       rect:
@@ -1377,7 +1381,7 @@ TextureImporter:
         width: 43
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_87
       rect:
@@ -1387,7 +1391,7 @@ TextureImporter:
         width: 68
         height: 12
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_88
       rect:
@@ -1397,7 +1401,7 @@ TextureImporter:
         width: 172
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_89
       rect:
@@ -1407,7 +1411,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_90
       rect:
@@ -1417,7 +1421,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_91
       rect:
@@ -1427,7 +1431,7 @@ TextureImporter:
         width: 37
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_92
       rect:
@@ -1437,7 +1441,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_93
       rect:
@@ -1447,7 +1451,7 @@ TextureImporter:
         width: 39
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_94
       rect:
@@ -1457,7 +1461,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_95
       rect:
@@ -1467,7 +1471,7 @@ TextureImporter:
         width: 30
         height: 18
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_96
       rect:
@@ -1477,7 +1481,7 @@ TextureImporter:
         width: 14
         height: 7
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_97
       rect:
@@ -1487,7 +1491,7 @@ TextureImporter:
         width: 48
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_98
       rect:
@@ -1497,7 +1501,7 @@ TextureImporter:
         width: 52
         height: 61
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_99
       rect:
@@ -1507,7 +1511,7 @@ TextureImporter:
         width: 73
         height: 64
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_100
       rect:
@@ -1517,7 +1521,7 @@ TextureImporter:
         width: 39
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_101
       rect:
@@ -1527,7 +1531,7 @@ TextureImporter:
         width: 62
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_102
       rect:
@@ -1537,7 +1541,7 @@ TextureImporter:
         width: 84
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_103
       rect:
@@ -1547,7 +1551,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_104
       rect:
@@ -1557,7 +1561,7 @@ TextureImporter:
         width: 99
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_105
       rect:
@@ -1567,7 +1571,7 @@ TextureImporter:
         width: 73
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_106
       rect:
@@ -1577,7 +1581,7 @@ TextureImporter:
         width: 63
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_107
       rect:
@@ -1587,7 +1591,7 @@ TextureImporter:
         width: 55
         height: 80
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_108
       rect:
@@ -1597,7 +1601,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_109
       rect:
@@ -1607,7 +1611,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_110
       rect:
@@ -1617,7 +1621,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_111
       rect:
@@ -1627,7 +1631,7 @@ TextureImporter:
         width: 69
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_112
       rect:
@@ -1637,7 +1641,7 @@ TextureImporter:
         width: 37
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_113
       rect:
@@ -1647,7 +1651,7 @@ TextureImporter:
         width: 87
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_114
       rect:
@@ -1657,7 +1661,7 @@ TextureImporter:
         width: 49
         height: 62
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_115
       rect:
@@ -1667,7 +1671,7 @@ TextureImporter:
         width: 74
         height: 65
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_116
       rect:
@@ -1677,7 +1681,7 @@ TextureImporter:
         width: 40
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_117
       rect:
@@ -1687,7 +1691,7 @@ TextureImporter:
         width: 62
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_118
       rect:
@@ -1697,7 +1701,7 @@ TextureImporter:
         width: 83
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_119
       rect:
@@ -1707,7 +1711,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_120
       rect:
@@ -1717,7 +1721,7 @@ TextureImporter:
         width: 100
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_121
       rect:
@@ -1727,7 +1731,7 @@ TextureImporter:
         width: 72
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_122
       rect:
@@ -1737,7 +1741,7 @@ TextureImporter:
         width: 62
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_123
       rect:
@@ -1747,7 +1751,7 @@ TextureImporter:
         width: 46
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_124
       rect:
@@ -1757,7 +1761,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_125
       rect:
@@ -1767,7 +1771,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_126
       rect:
@@ -1777,7 +1781,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_127
       rect:
@@ -1787,7 +1791,7 @@ TextureImporter:
         width: 69
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_128
       rect:
@@ -1797,7 +1801,7 @@ TextureImporter:
         width: 69
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_129
       rect:
@@ -1807,7 +1811,7 @@ TextureImporter:
         width: 70
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_130
       rect:
@@ -1817,7 +1821,7 @@ TextureImporter:
         width: 69
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_131
       rect:
@@ -1827,7 +1831,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_132
       rect:
@@ -1837,7 +1841,7 @@ TextureImporter:
         width: 102
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_133
       rect:
@@ -1847,7 +1851,7 @@ TextureImporter:
         width: 88
         height: 15
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_134
       rect:
@@ -1857,7 +1861,7 @@ TextureImporter:
         width: 165
         height: 108
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_135
       rect:
@@ -1867,7 +1871,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_136
       rect:
@@ -1877,7 +1881,7 @@ TextureImporter:
         width: 69
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_137
       rect:
@@ -1887,7 +1891,7 @@ TextureImporter:
         width: 69
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_138
       rect:
@@ -1897,7 +1901,7 @@ TextureImporter:
         width: 68
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_139
       rect:
@@ -1907,7 +1911,7 @@ TextureImporter:
         width: 68
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_140
       rect:
@@ -1917,7 +1921,7 @@ TextureImporter:
         width: 69
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_141
       rect:
@@ -1927,7 +1931,7 @@ TextureImporter:
         width: 69
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_142
       rect:
@@ -1937,7 +1941,7 @@ TextureImporter:
         width: 69
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_143
       rect:
@@ -1947,7 +1951,7 @@ TextureImporter:
         width: 68
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_144
       rect:
@@ -1957,7 +1961,7 @@ TextureImporter:
         width: 69
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_145
       rect:
@@ -1967,7 +1971,7 @@ TextureImporter:
         width: 69
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_146
       rect:
@@ -1977,7 +1981,7 @@ TextureImporter:
         width: 70
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_147
       rect:
@@ -1987,7 +1991,7 @@ TextureImporter:
         width: 69
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_148
       rect:
@@ -1997,7 +2001,7 @@ TextureImporter:
         width: 39
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_149
       rect:
@@ -2007,7 +2011,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_150
       rect:
@@ -2017,7 +2021,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_151
       rect:
@@ -2027,7 +2031,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_152
       rect:
@@ -2037,7 +2041,7 @@ TextureImporter:
         width: 69
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_153
       rect:
@@ -2047,7 +2051,7 @@ TextureImporter:
         width: 38
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_154
       rect:
@@ -2057,7 +2061,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_155
       rect:
@@ -2067,7 +2071,7 @@ TextureImporter:
         width: 69
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_156
       rect:
@@ -2077,7 +2081,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_157
       rect:
@@ -2087,7 +2091,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_158
       rect:
@@ -2097,7 +2101,7 @@ TextureImporter:
         width: 37
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_159
       rect:
@@ -2107,7 +2111,7 @@ TextureImporter:
         width: 66
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_160
       rect:
@@ -2117,7 +2121,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_161
       rect:
@@ -2127,7 +2131,7 @@ TextureImporter:
         width: 67
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_162
       rect:
@@ -2137,7 +2141,7 @@ TextureImporter:
         width: 68
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_163
       rect:
@@ -2147,7 +2151,7 @@ TextureImporter:
         width: 38
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_164
       rect:
@@ -2157,7 +2161,7 @@ TextureImporter:
         width: 66
         height: 77
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_165
       rect:
@@ -2167,7 +2171,7 @@ TextureImporter:
         width: 52
         height: 71
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_166
       rect:
@@ -2177,7 +2181,7 @@ TextureImporter:
         width: 88
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_167
       rect:
@@ -2187,7 +2191,7 @@ TextureImporter:
         width: 65
         height: 77
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_168
       rect:
@@ -2197,7 +2201,7 @@ TextureImporter:
         width: 52
         height: 71
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_169
       rect:
@@ -2207,7 +2211,7 @@ TextureImporter:
         width: 38
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_170
       rect:
@@ -2217,7 +2221,7 @@ TextureImporter:
         width: 54
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_171
       rect:
@@ -2227,7 +2231,7 @@ TextureImporter:
         width: 57
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_172
       rect:
@@ -2237,7 +2241,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_173
       rect:
@@ -2247,7 +2251,7 @@ TextureImporter:
         width: 40
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_174
       rect:
@@ -2257,7 +2261,7 @@ TextureImporter:
         width: 54
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_175
       rect:
@@ -2267,7 +2271,7 @@ TextureImporter:
         width: 58
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_176
       rect:
@@ -2277,7 +2281,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_177
       rect:
@@ -2287,7 +2291,7 @@ TextureImporter:
         width: 35
         height: 13
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_178
       rect:
@@ -2297,7 +2301,7 @@ TextureImporter:
         width: 65
         height: 77
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_179
       rect:
@@ -2307,7 +2311,7 @@ TextureImporter:
         width: 52
         height: 72
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_180
       rect:
@@ -2317,7 +2321,7 @@ TextureImporter:
         width: 52
         height: 62
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_181
       rect:
@@ -2327,7 +2331,7 @@ TextureImporter:
         width: 73
         height: 66
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_182
       rect:
@@ -2337,7 +2341,7 @@ TextureImporter:
         width: 66
         height: 77
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_183
       rect:
@@ -2347,7 +2351,7 @@ TextureImporter:
         width: 53
         height: 72
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_184
       rect:
@@ -2357,7 +2361,7 @@ TextureImporter:
         width: 39
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_185
       rect:
@@ -2367,7 +2371,7 @@ TextureImporter:
         width: 52
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_186
       rect:
@@ -2377,7 +2381,7 @@ TextureImporter:
         width: 57
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_187
       rect:
@@ -2387,7 +2391,7 @@ TextureImporter:
         width: 45
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_188
       rect:
@@ -2397,7 +2401,7 @@ TextureImporter:
         width: 72
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_189
       rect:
@@ -2407,7 +2411,7 @@ TextureImporter:
         width: 62
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_190
       rect:
@@ -2417,7 +2421,7 @@ TextureImporter:
         width: 39
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_191
       rect:
@@ -2427,7 +2431,7 @@ TextureImporter:
         width: 54
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_192
       rect:
@@ -2437,7 +2441,7 @@ TextureImporter:
         width: 57
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_193
       rect:
@@ -2447,7 +2451,7 @@ TextureImporter:
         width: 96
         height: 12
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_194
       rect:
@@ -2457,7 +2461,7 @@ TextureImporter:
         width: 41
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_195
       rect:
@@ -2467,7 +2471,7 @@ TextureImporter:
         width: 84
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_196
       rect:
@@ -2477,7 +2481,7 @@ TextureImporter:
         width: 60
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_197
       rect:
@@ -2487,7 +2491,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_198
       rect:
@@ -2497,7 +2501,7 @@ TextureImporter:
         width: 41
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_199
       rect:
@@ -2507,7 +2511,7 @@ TextureImporter:
         width: 61
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_200
       rect:
@@ -2517,7 +2521,7 @@ TextureImporter:
         width: 84
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_201
       rect:
@@ -2527,7 +2531,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_202
       rect:
@@ -2537,7 +2541,7 @@ TextureImporter:
         width: 58
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_203
       rect:
@@ -2547,7 +2551,7 @@ TextureImporter:
         width: 37
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_204
       rect:
@@ -2557,7 +2561,7 @@ TextureImporter:
         width: 61
         height: 57
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_205
       rect:
@@ -2567,7 +2571,7 @@ TextureImporter:
         width: 84
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_206
       rect:
@@ -2577,7 +2581,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_207
       rect:
@@ -2587,7 +2591,7 @@ TextureImporter:
         width: 57
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_208
       rect:
@@ -2597,7 +2601,7 @@ TextureImporter:
         width: 196
         height: 15
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_209
       rect:
@@ -2607,7 +2611,7 @@ TextureImporter:
         width: 175
         height: 76
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_210
       rect:
@@ -2617,7 +2621,7 @@ TextureImporter:
         width: 50
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_211
       rect:
@@ -2627,7 +2631,7 @@ TextureImporter:
         width: 173
         height: 62
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_212
       rect:
@@ -2637,7 +2641,7 @@ TextureImporter:
         width: 50
         height: 48
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_213
       rect:
@@ -2647,7 +2651,7 @@ TextureImporter:
         width: 48
         height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_214
       rect:
@@ -2657,7 +2661,7 @@ TextureImporter:
         width: 47
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_215
       rect:
@@ -2667,7 +2671,7 @@ TextureImporter:
         width: 27
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_216
       rect:
@@ -2677,7 +2681,7 @@ TextureImporter:
         width: 59
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_217
       rect:
@@ -2687,7 +2691,7 @@ TextureImporter:
         width: 36
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_218
       rect:
@@ -2697,7 +2701,7 @@ TextureImporter:
         width: 41
         height: 59
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_219
       rect:
@@ -2707,7 +2711,7 @@ TextureImporter:
         width: 40
         height: 59
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_220
       rect:
@@ -2717,7 +2721,7 @@ TextureImporter:
         width: 33
         height: 59
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_221
       rect:
@@ -2727,7 +2731,7 @@ TextureImporter:
         width: 38
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_222
       rect:
@@ -2737,7 +2741,7 @@ TextureImporter:
         width: 37
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_223
       rect:
@@ -2747,7 +2751,7 @@ TextureImporter:
         width: 27
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_224
       rect:
@@ -2757,7 +2761,7 @@ TextureImporter:
         width: 27
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_225
       rect:
@@ -2767,7 +2771,7 @@ TextureImporter:
         width: 28
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_226
       rect:
@@ -2777,7 +2781,7 @@ TextureImporter:
         width: 29
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_227
       rect:
@@ -2787,7 +2791,7 @@ TextureImporter:
         width: 28
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_228
       rect:
@@ -2797,7 +2801,7 @@ TextureImporter:
         width: 27
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_229
       rect:
@@ -2807,7 +2811,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_230
       rect:
@@ -2817,7 +2821,7 @@ TextureImporter:
         width: 76
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_231
       rect:
@@ -2827,7 +2831,7 @@ TextureImporter:
         width: 84
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_232
       rect:
@@ -2837,7 +2841,7 @@ TextureImporter:
         width: 65
         height: 58
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_233
       rect:
@@ -2847,7 +2851,7 @@ TextureImporter:
         width: 40
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_234
       rect:
@@ -2857,7 +2861,7 @@ TextureImporter:
         width: 47
         height: 15
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_235
       rect:
@@ -2867,7 +2871,7 @@ TextureImporter:
         width: 77
         height: 17
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_236
       rect:
@@ -2877,7 +2881,7 @@ TextureImporter:
         width: 28
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_237
       rect:
@@ -2887,7 +2891,7 @@ TextureImporter:
         width: 57
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_238
       rect:
@@ -2897,7 +2901,7 @@ TextureImporter:
         width: 31
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_239
       rect:
@@ -2907,7 +2911,7 @@ TextureImporter:
         width: 27
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_240
       rect:
@@ -2917,7 +2921,7 @@ TextureImporter:
         width: 26
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_241
       rect:
@@ -2927,7 +2931,7 @@ TextureImporter:
         width: 94
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_242
       rect:
@@ -2937,7 +2941,7 @@ TextureImporter:
         width: 36
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_243
       rect:
@@ -2947,7 +2951,7 @@ TextureImporter:
         width: 41
         height: 59
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_244
       rect:
@@ -2957,7 +2961,7 @@ TextureImporter:
         width: 40
         height: 59
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_245
       rect:
@@ -2967,7 +2971,7 @@ TextureImporter:
         width: 33
         height: 59
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_246
       rect:
@@ -2977,7 +2981,7 @@ TextureImporter:
         width: 38
         height: 57
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_247
       rect:
@@ -2987,7 +2991,7 @@ TextureImporter:
         width: 24
         height: 58
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_248
       rect:
@@ -2997,7 +3001,7 @@ TextureImporter:
         width: 33
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_249
       rect:
@@ -3007,7 +3011,7 @@ TextureImporter:
         width: 37
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_250
       rect:
@@ -3017,7 +3021,7 @@ TextureImporter:
         width: 36
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_251
       rect:
@@ -3027,7 +3031,7 @@ TextureImporter:
         width: 37
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_252
       rect:
@@ -3037,7 +3041,7 @@ TextureImporter:
         width: 27
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_253
       rect:
@@ -3047,7 +3051,7 @@ TextureImporter:
         width: 27
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_254
       rect:
@@ -3057,7 +3061,7 @@ TextureImporter:
         width: 25
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_255
       rect:
@@ -3067,7 +3071,7 @@ TextureImporter:
         width: 27
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_256
       rect:
@@ -3077,7 +3081,7 @@ TextureImporter:
         width: 28
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_257
       rect:
@@ -3087,7 +3091,7 @@ TextureImporter:
         width: 28
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_258
       rect:
@@ -3097,7 +3101,7 @@ TextureImporter:
         width: 26
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_259
       rect:
@@ -3107,7 +3111,7 @@ TextureImporter:
         width: 28
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_260
       rect:
@@ -3117,7 +3121,7 @@ TextureImporter:
         width: 27
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_261
       rect:
@@ -3127,7 +3131,7 @@ TextureImporter:
         width: 26
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_262
       rect:
@@ -3137,7 +3141,7 @@ TextureImporter:
         width: 29
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_263
       rect:
@@ -3147,7 +3151,7 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_264
       rect:
@@ -3157,7 +3161,7 @@ TextureImporter:
         width: 27
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_265
       rect:
@@ -3167,7 +3171,7 @@ TextureImporter:
         width: 41
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_266
       rect:
@@ -3177,7 +3181,7 @@ TextureImporter:
         width: 83
         height: 90
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_267
       rect:
@@ -3187,7 +3191,7 @@ TextureImporter:
         width: 123
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_268
       rect:
@@ -3197,7 +3201,7 @@ TextureImporter:
         width: 87
         height: 89
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_269
       rect:
@@ -3207,7 +3211,7 @@ TextureImporter:
         width: 6
         height: 8
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_270
       rect:
@@ -3217,7 +3221,7 @@ TextureImporter:
         width: 50
         height: 10
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_271
       rect:
@@ -3227,7 +3231,7 @@ TextureImporter:
         width: 87
         height: 13
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_272
       rect:
@@ -3237,7 +3241,7 @@ TextureImporter:
         width: 40
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_273
       rect:
@@ -3247,7 +3251,7 @@ TextureImporter:
         width: 59
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_274
       rect:
@@ -3257,7 +3261,7 @@ TextureImporter:
         width: 84
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_275
       rect:
@@ -3267,7 +3271,7 @@ TextureImporter:
         width: 60
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_276
       rect:
@@ -3277,7 +3281,7 @@ TextureImporter:
         width: 58
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_277
       rect:
@@ -3287,7 +3291,7 @@ TextureImporter:
         width: 41
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_278
       rect:
@@ -3297,7 +3301,7 @@ TextureImporter:
         width: 58
         height: 36
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_279
       rect:
@@ -3307,7 +3311,7 @@ TextureImporter:
         width: 82
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_280
       rect:
@@ -3317,7 +3321,7 @@ TextureImporter:
         width: 58
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_281
       rect:
@@ -3327,7 +3331,7 @@ TextureImporter:
         width: 59
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_282
       rect:
@@ -3337,7 +3341,7 @@ TextureImporter:
         width: 5
         height: 8
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_283
       rect:
@@ -3347,7 +3351,7 @@ TextureImporter:
         width: 50
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_284
       rect:
@@ -3357,7 +3361,7 @@ TextureImporter:
         width: 41
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_285
       rect:
@@ -3367,7 +3371,7 @@ TextureImporter:
         width: 88
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_286
       rect:
@@ -3377,7 +3381,7 @@ TextureImporter:
         width: 41
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_287
       rect:
@@ -3387,7 +3391,7 @@ TextureImporter:
         width: 40
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_288
       rect:
@@ -3397,7 +3401,7 @@ TextureImporter:
         width: 59
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_289
       rect:
@@ -3407,7 +3411,7 @@ TextureImporter:
         width: 84
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_290
       rect:
@@ -3417,7 +3421,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_291
       rect:
@@ -3427,7 +3431,7 @@ TextureImporter:
         width: 58
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_292
       rect:
@@ -3437,7 +3441,7 @@ TextureImporter:
         width: 47
         height: 72
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_293
       rect:
@@ -3447,7 +3451,7 @@ TextureImporter:
         width: 58
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_294
       rect:
@@ -3457,7 +3461,7 @@ TextureImporter:
         width: 83
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_295
       rect:
@@ -3467,7 +3471,7 @@ TextureImporter:
         width: 59
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_296
       rect:
@@ -3477,7 +3481,7 @@ TextureImporter:
         width: 57
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_297
       rect:
@@ -3487,7 +3491,7 @@ TextureImporter:
         width: 95
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_298
       rect:
@@ -3497,7 +3501,7 @@ TextureImporter:
         width: 41
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_299
       rect:
@@ -3507,7 +3511,7 @@ TextureImporter:
         width: 46
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_300
       rect:
@@ -3517,7 +3521,7 @@ TextureImporter:
         width: 39
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_301
       rect:
@@ -3527,7 +3531,7 @@ TextureImporter:
         width: 56
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_302
       rect:
@@ -3537,7 +3541,7 @@ TextureImporter:
         width: 46
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_303
       rect:
@@ -3547,7 +3551,7 @@ TextureImporter:
         width: 46
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_304
       rect:
@@ -3557,7 +3561,7 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_305
       rect:
@@ -3567,7 +3571,7 @@ TextureImporter:
         width: 46
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_306
       rect:
@@ -3577,7 +3581,7 @@ TextureImporter:
         width: 46
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_307
       rect:
@@ -3587,7 +3591,7 @@ TextureImporter:
         width: 46
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_308
       rect:
@@ -3597,7 +3601,7 @@ TextureImporter:
         width: 46
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_309
       rect:
@@ -3607,7 +3611,7 @@ TextureImporter:
         width: 40
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_310
       rect:
@@ -3617,7 +3621,7 @@ TextureImporter:
         width: 42
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_311
       rect:
@@ -3627,7 +3631,7 @@ TextureImporter:
         width: 42
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_312
       rect:
@@ -3637,7 +3641,7 @@ TextureImporter:
         width: 46
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_313
       rect:
@@ -3647,7 +3651,7 @@ TextureImporter:
         width: 47
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_314
       rect:
@@ -3657,7 +3661,7 @@ TextureImporter:
         width: 47
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_315
       rect:
@@ -3667,7 +3671,7 @@ TextureImporter:
         width: 47
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_316
       rect:
@@ -3677,7 +3681,7 @@ TextureImporter:
         width: 47
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_317
       rect:
@@ -3687,7 +3691,7 @@ TextureImporter:
         width: 47
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_318
       rect:
@@ -3697,7 +3701,7 @@ TextureImporter:
         width: 46
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_319
       rect:
@@ -3707,7 +3711,7 @@ TextureImporter:
         width: 82
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_320
       rect:
@@ -3717,7 +3721,7 @@ TextureImporter:
         width: 26
         height: 12
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_321
       rect:
@@ -3727,7 +3731,7 @@ TextureImporter:
         width: 29
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_322
       rect:
@@ -3737,7 +3741,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_323
       rect:
@@ -3747,7 +3751,7 @@ TextureImporter:
         width: 35
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_324
       rect:
@@ -3757,17 +3761,17 @@ TextureImporter:
         width: 24
         height: 35
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_325
       rect:
         serializedVersion: 2
-        x: 316
-        y: 1099
-        width: 51
-        height: 63
+        x: 334
+        y: 1111
+        width: 33
+        height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_326
       rect:
@@ -3777,7 +3781,7 @@ TextureImporter:
         width: 38
         height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_327
       rect:
@@ -3787,7 +3791,7 @@ TextureImporter:
         width: 44
         height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_328
       rect:
@@ -3797,7 +3801,7 @@ TextureImporter:
         width: 42
         height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_329
       rect:
@@ -3807,7 +3811,7 @@ TextureImporter:
         width: 35
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_330
       rect:
@@ -3817,7 +3821,7 @@ TextureImporter:
         width: 33
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_331
       rect:
@@ -3827,7 +3831,7 @@ TextureImporter:
         width: 33
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_332
       rect:
@@ -3837,7 +3841,7 @@ TextureImporter:
         width: 32
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_333
       rect:
@@ -3847,7 +3851,7 @@ TextureImporter:
         width: 33
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_334
       rect:
@@ -3857,7 +3861,7 @@ TextureImporter:
         width: 70
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_335
       rect:
@@ -3867,7 +3871,7 @@ TextureImporter:
         width: 37
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_336
       rect:
@@ -3877,7 +3881,7 @@ TextureImporter:
         width: 36
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_337
       rect:
@@ -3887,17 +3891,17 @@ TextureImporter:
         width: 34
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_338
       rect:
         serializedVersion: 2
         x: 461
         y: 1060
-        width: 70
+        width: 34
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_339
       rect:
@@ -3907,7 +3911,7 @@ TextureImporter:
         width: 67
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_340
       rect:
@@ -3917,7 +3921,7 @@ TextureImporter:
         width: 32
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_341
       rect:
@@ -3927,7 +3931,7 @@ TextureImporter:
         width: 39
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_342
       rect:
@@ -3937,7 +3941,7 @@ TextureImporter:
         width: 33
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_343
       rect:
@@ -3947,7 +3951,7 @@ TextureImporter:
         width: 36
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_344
       rect:
@@ -3957,7 +3961,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_345
       rect:
@@ -3967,7 +3971,7 @@ TextureImporter:
         width: 61
         height: 40
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_346
       rect:
@@ -3977,7 +3981,7 @@ TextureImporter:
         width: 91
         height: 65
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_347
       rect:
@@ -3987,7 +3991,7 @@ TextureImporter:
         width: 32
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_348
       rect:
@@ -3997,7 +4001,7 @@ TextureImporter:
         width: 39
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_349
       rect:
@@ -4007,7 +4011,7 @@ TextureImporter:
         width: 36
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_350
       rect:
@@ -4017,7 +4021,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_351
       rect:
@@ -4027,7 +4031,7 @@ TextureImporter:
         width: 32
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_352
       rect:
@@ -4037,7 +4041,7 @@ TextureImporter:
         width: 31
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_353
       rect:
@@ -4047,7 +4051,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_354
       rect:
@@ -4057,7 +4061,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_355
       rect:
@@ -4067,7 +4071,7 @@ TextureImporter:
         width: 31
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_356
       rect:
@@ -4077,7 +4081,7 @@ TextureImporter:
         width: 39
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_357
       rect:
@@ -4087,7 +4091,7 @@ TextureImporter:
         width: 32
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_358
       rect:
@@ -4097,7 +4101,7 @@ TextureImporter:
         width: 35
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_359
       rect:
@@ -4107,7 +4111,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_360
       rect:
@@ -4117,7 +4121,7 @@ TextureImporter:
         width: 121
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_361
       rect:
@@ -4127,7 +4131,7 @@ TextureImporter:
         width: 31
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_362
       rect:
@@ -4137,7 +4141,7 @@ TextureImporter:
         width: 31
         height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_363
       rect:
@@ -4147,7 +4151,7 @@ TextureImporter:
         width: 32
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_364
       rect:
@@ -4157,7 +4161,7 @@ TextureImporter:
         width: 32
         height: 51
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_365
       rect:
@@ -4167,7 +4171,7 @@ TextureImporter:
         width: 39
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_366
       rect:
@@ -4177,7 +4181,7 @@ TextureImporter:
         width: 36
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_367
       rect:
@@ -4187,7 +4191,7 @@ TextureImporter:
         width: 30
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_368
       rect:
@@ -4197,7 +4201,7 @@ TextureImporter:
         width: 7
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_369
       rect:
@@ -4207,7 +4211,7 @@ TextureImporter:
         width: 55
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_370
       rect:
@@ -4217,7 +4221,7 @@ TextureImporter:
         width: 29
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_371
       rect:
@@ -4227,7 +4231,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_372
       rect:
@@ -4237,7 +4241,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_373
       rect:
@@ -4247,7 +4251,7 @@ TextureImporter:
         width: 61
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_374
       rect:
@@ -4257,7 +4261,7 @@ TextureImporter:
         width: 37
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_375
       rect:
@@ -4267,7 +4271,7 @@ TextureImporter:
         width: 27
         height: 18
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_376
       rect:
@@ -4277,7 +4281,7 @@ TextureImporter:
         width: 103
         height: 69
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_377
       rect:
@@ -4287,7 +4291,7 @@ TextureImporter:
         width: 39
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_378
       rect:
@@ -4297,7 +4301,7 @@ TextureImporter:
         width: 38
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_379
       rect:
@@ -4307,7 +4311,7 @@ TextureImporter:
         width: 30
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_380
       rect:
@@ -4317,7 +4321,7 @@ TextureImporter:
         width: 28
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_381
       rect:
@@ -4327,7 +4331,7 @@ TextureImporter:
         width: 37
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_382
       rect:
@@ -4337,7 +4341,7 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_383
       rect:
@@ -4347,7 +4351,7 @@ TextureImporter:
         width: 59
         height: 30
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_384
       rect:
@@ -4357,7 +4361,7 @@ TextureImporter:
         width: 36
         height: 13
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_385
       rect:
@@ -4367,7 +4371,7 @@ TextureImporter:
         width: 35
         height: 13
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_386
       rect:
@@ -4377,7 +4381,7 @@ TextureImporter:
         width: 27
         height: 12
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_387
       rect:
@@ -4387,7 +4391,7 @@ TextureImporter:
         width: 26
         height: 52
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_388
       rect:
@@ -4397,7 +4401,7 @@ TextureImporter:
         width: 28
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_389
       rect:
@@ -4407,7 +4411,7 @@ TextureImporter:
         width: 34
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_390
       rect:
@@ -4417,7 +4421,7 @@ TextureImporter:
         width: 44
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_391
       rect:
@@ -4427,7 +4431,7 @@ TextureImporter:
         width: 46
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_392
       rect:
@@ -4437,7 +4441,7 @@ TextureImporter:
         width: 46
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_393
       rect:
@@ -4447,7 +4451,7 @@ TextureImporter:
         width: 46
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_394
       rect:
@@ -4457,7 +4461,7 @@ TextureImporter:
         width: 45
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_395
       rect:
@@ -4467,7 +4471,7 @@ TextureImporter:
         width: 41
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_396
       rect:
@@ -4477,7 +4481,7 @@ TextureImporter:
         width: 23
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_397
       rect:
@@ -4487,7 +4491,7 @@ TextureImporter:
         width: 36
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_398
       rect:
@@ -4497,7 +4501,7 @@ TextureImporter:
         width: 40
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_399
       rect:
@@ -4507,7 +4511,7 @@ TextureImporter:
         width: 54
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_400
       rect:
@@ -4517,7 +4521,7 @@ TextureImporter:
         width: 67
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_401
       rect:
@@ -4527,7 +4531,7 @@ TextureImporter:
         width: 59
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_402
       rect:
@@ -4537,7 +4541,7 @@ TextureImporter:
         width: 57
         height: 54
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_403
       rect:
@@ -4547,7 +4551,7 @@ TextureImporter:
         width: 57
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_404
       rect:
@@ -4557,7 +4561,7 @@ TextureImporter:
         width: 47
         height: 50
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_405
       rect:
@@ -4567,7 +4571,7 @@ TextureImporter:
         width: 24
         height: 63
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_406
       rect:
@@ -4577,7 +4581,7 @@ TextureImporter:
         width: 23
         height: 62
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_407
       rect:
@@ -4587,7 +4591,7 @@ TextureImporter:
         width: 37
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_408
       rect:
@@ -4597,7 +4601,7 @@ TextureImporter:
         width: 115
         height: 22
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_409
       rect:
@@ -4607,7 +4611,7 @@ TextureImporter:
         width: 86
         height: 14
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_410
       rect:
@@ -4617,7 +4621,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_411
       rect:
@@ -4627,7 +4631,7 @@ TextureImporter:
         width: 38
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_412
       rect:
@@ -4637,7 +4641,7 @@ TextureImporter:
         width: 38
         height: 40
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_413
       rect:
@@ -4647,7 +4651,7 @@ TextureImporter:
         width: 36
         height: 39
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_414
       rect:
@@ -4657,7 +4661,7 @@ TextureImporter:
         width: 35
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_415
       rect:
@@ -4667,7 +4671,7 @@ TextureImporter:
         width: 35
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_416
       rect:
@@ -4677,7 +4681,7 @@ TextureImporter:
         width: 208
         height: 179
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_417
       rect:
@@ -4687,7 +4691,7 @@ TextureImporter:
         width: 39
         height: 45
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_418
       rect:
@@ -4697,7 +4701,7 @@ TextureImporter:
         width: 43
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_419
       rect:
@@ -4707,7 +4711,7 @@ TextureImporter:
         width: 44
         height: 41
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_420
       rect:
@@ -4717,7 +4721,7 @@ TextureImporter:
         width: 43
         height: 40
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_421
       rect:
@@ -4727,7 +4731,7 @@ TextureImporter:
         width: 43
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_422
       rect:
@@ -4737,7 +4741,7 @@ TextureImporter:
         width: 42
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_423
       rect:
@@ -4747,7 +4751,7 @@ TextureImporter:
         width: 66
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_424
       rect:
@@ -4757,7 +4761,7 @@ TextureImporter:
         width: 30
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_425
       rect:
@@ -4767,7 +4771,7 @@ TextureImporter:
         width: 46
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_426
       rect:
@@ -4777,7 +4781,7 @@ TextureImporter:
         width: 30
         height: 47
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_427
       rect:
@@ -4787,7 +4791,7 @@ TextureImporter:
         width: 33
         height: 53
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_428
       rect:
@@ -4797,7 +4801,7 @@ TextureImporter:
         width: 96
         height: 56
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_429
       rect:
@@ -4807,7 +4811,7 @@ TextureImporter:
         width: 61
         height: 42
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_430
       rect:
@@ -4817,7 +4821,7 @@ TextureImporter:
         width: 75
         height: 58
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_431
       rect:
@@ -4827,7 +4831,7 @@ TextureImporter:
         width: 84
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_432
       rect:
@@ -4837,7 +4841,7 @@ TextureImporter:
         width: 48
         height: 48
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_433
       rect:
@@ -4847,7 +4851,7 @@ TextureImporter:
         width: 40
         height: 55
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_434
       rect:
@@ -4857,7 +4861,7 @@ TextureImporter:
         width: 34
         height: 70
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_435
       rect:
@@ -4867,7 +4871,7 @@ TextureImporter:
         width: 73
         height: 65
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_436
       rect:
@@ -4877,7 +4881,7 @@ TextureImporter:
         width: 72
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_437
       rect:
@@ -4887,7 +4891,7 @@ TextureImporter:
         width: 63
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_438
       rect:
@@ -4897,7 +4901,7 @@ TextureImporter:
         width: 56
         height: 88
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_439
       rect:
@@ -4907,7 +4911,7 @@ TextureImporter:
         width: 62
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_440
       rect:
@@ -4917,7 +4921,7 @@ TextureImporter:
         width: 45
         height: 60
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_441
       rect:
@@ -4927,7 +4931,7 @@ TextureImporter:
         width: 108
         height: 61
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_442
       rect:
@@ -4937,7 +4941,7 @@ TextureImporter:
         width: 38
         height: 20
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_443
       rect:
@@ -4947,7 +4951,7 @@ TextureImporter:
         width: 24
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_444
       rect:
@@ -4957,7 +4961,7 @@ TextureImporter:
         width: 29
         height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_445
       rect:
@@ -4967,7 +4971,7 @@ TextureImporter:
         width: 32
         height: 11
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_446
       rect:
@@ -4977,7 +4981,7 @@ TextureImporter:
         width: 278
         height: 12
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_447
       rect:
@@ -4987,7 +4991,7 @@ TextureImporter:
         width: 37
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_448
       rect:
@@ -4997,7 +5001,7 @@ TextureImporter:
         width: 39
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_449
       rect:
@@ -5007,7 +5011,7 @@ TextureImporter:
         width: 37
         height: 37
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_450
       rect:
@@ -5017,7 +5021,7 @@ TextureImporter:
         width: 40
         height: 34
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_451
       rect:
@@ -5027,7 +5031,7 @@ TextureImporter:
         width: 30
         height: 80
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_452
       rect:
@@ -5037,7 +5041,7 @@ TextureImporter:
         width: 32
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_453
       rect:
@@ -5047,7 +5051,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_454
       rect:
@@ -5057,7 +5061,7 @@ TextureImporter:
         width: 31
         height: 46
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_455
       rect:
@@ -5067,7 +5071,7 @@ TextureImporter:
         width: 30
         height: 80
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_456
       rect:
@@ -5077,7 +5081,7 @@ TextureImporter:
         width: 30
         height: 80
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_457
       rect:
@@ -5087,7 +5091,7 @@ TextureImporter:
         width: 30
         height: 80
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_458
       rect:
@@ -5097,7 +5101,7 @@ TextureImporter:
         width: 171
         height: 86
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_459
       rect:
@@ -5107,7 +5111,7 @@ TextureImporter:
         width: 32
         height: 44
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_460
       rect:
@@ -5117,7 +5121,7 @@ TextureImporter:
         width: 36
         height: 43
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_461
       rect:
@@ -5127,7 +5131,7 @@ TextureImporter:
         width: 43
         height: 38
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_462
       rect:
@@ -5137,7 +5141,7 @@ TextureImporter:
         width: 43
         height: 32
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_463
       rect:
@@ -5147,7 +5151,7 @@ TextureImporter:
         width: 29
         height: 49
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_464
       rect:
@@ -5157,7 +5161,7 @@ TextureImporter:
         width: 21
         height: 39
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: link_465
       rect:
@@ -5167,7 +5171,47 @@ TextureImporter:
         width: 63
         height: 10
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: link_466
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1112
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: link_467
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1061
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: link_468
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1061
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: link_469
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1060
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

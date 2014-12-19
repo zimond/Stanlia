@@ -12,6 +12,9 @@ public class PlayerController : MonoBehaviour {
 	public bool FaceRight { get; private set; }
 	public float jumpDelay = 0.5f;
 	public float currentJumpDelay = 0.0f;
+
+	public GameObject Arrow;
+	private GameObject arrow;
 //	private bool flipSprite = false;
 	void Start () {
 		//get the player
@@ -55,6 +58,11 @@ public class PlayerController : MonoBehaviour {
 			player.gameObject.rigidbody2D.AddForce(Vector3.up * jumpSpeed);
 		}
 		if (currentJumpDelay > 0.0f) currentJumpDelay -= Time.deltaTime;
+
+		if (Input.GetKey (KeyCode.Z)) {
+			playerAnimator.SetBool ("is_bow_attacking", true);		
+		} else
+			playerAnimator.SetBool ("is_bow_attacking", false);
 	}
 	void OnCollisionEnter2D(Collision2D collision){
 		if(collision.gameObject.tag == "Block" && !isGrounded){
@@ -72,5 +80,14 @@ public class PlayerController : MonoBehaviour {
 		theScale.x *= -1;
 		transform.localScale = theScale;
 		FaceRight = !FaceRight;
+	}
+	public bool onBowAttacking()
+	{
+		var p = player.transform.position;
+		if (this.arrow)
+			Destroy (this.arrow);
+		this.arrow = Instantiate (Arrow, new Vector3 (p.x, p.y + player.renderer.bounds.size.y / 2, p.z), new Quaternion ()) as GameObject;
+		Physics2D.IgnoreCollision(arrow.collider2D, player.collider2D);
+		return true;
 	}
 }
